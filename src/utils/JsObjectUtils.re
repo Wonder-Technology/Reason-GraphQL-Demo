@@ -1,0 +1,1 @@
+external convertReasonObjToJsObj: {.} => Js.t({..}) = "%identity";
