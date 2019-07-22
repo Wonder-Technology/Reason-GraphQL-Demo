@@ -1017,8 +1017,8 @@ acorn@^5.5.3:
   resolved "https://registry.npm.taobao.org/acorn/download/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
 
 acorn@^6.0.1, acorn@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.2.0.tgz#67f0da2fc339d6cfb5d6fb244fd449f33cd8bbe3"
+  version "6.2.1"
+  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.2.1.tgz#3ed8422d6dec09e6121cc7a843ca86a330a86b51"
 
 ajv-errors@^1.0.0:
   version "1.0.1"
@@ -1666,8 +1666,8 @@ camelcase@^5.0.0:
   resolved "https://registry.npm.taobao.org/camelcase/download/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
 
 caniuse-lite@^1.0.30000984:
-  version "1.0.30000984"
-  resolved "https://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000984.tgz#dc96c3c469e9bcfc6ad5bdd24c77ec918ea76fe0"
+  version "1.0.30000985"
+  resolved "https://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000985.tgz#0eb40f6c8a8c219155cbe43c4975c0efb4a0f77f"
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -2238,8 +2238,8 @@ ee-first@1.1.1:
   resolved "https://registry.npm.taobao.org/ee-first/download/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
 electron-to-chromium@^1.3.191:
-  version "1.3.194"
-  resolved "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.194.tgz#a96452a96d4539131957aade9f634a45721f2819"
+  version "1.3.198"
+  resolved "https://registry.npm.taobao.org/electron-to-chromium/download/electron-to-chromium-1.3.198.tgz#932f74a9854eeb45436764c9c26433cf683fde7a"
 
 elliptic@^6.0.0:
   version "6.5.0"
@@ -2540,14 +2540,6 @@ fast-levenshtein@~2.0.4:
   version "2.0.6"
   resolved "https://registry.npm.taobao.org/fast-levenshtein/download/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
 
-fast-redact@^1.4.4:
-  version "1.5.0"
-  resolved "https://registry.npm.taobao.org/fast-redact/download/fast-redact-1.5.0.tgz#302892f566750c4f5eec7b830bfc9bc473484034"
-
-fast-safe-stringify@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.npm.taobao.org/fast-safe-stringify/download/fast-safe-stringify-2.0.6.tgz#04b26106cc56681f51a044cfc0d76cf0008ac2c2"
-
 faye-websocket@^0.10.0:
   version "0.10.0"
   resolved "https://registry.npm.taobao.org/faye-websocket/download/faye-websocket-0.10.0.tgz#4e492f8d04dfb6f89003507f6edbf2d501e7c6f4"
@@ -2650,10 +2642,6 @@ first-chunk-stream@^1.0.0:
 flagged-respawn@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/flagged-respawn/download/flagged-respawn-1.0.1.tgz#e7de6f1279ddd9ca9aac8a5971d618606b3aab41"
-
-flatstr@^1.0.9:
-  version "1.0.12"
-  resolved "https://registry.npm.taobao.org/flatstr/download/flatstr-1.0.12.tgz#c2ba6a08173edbb6c9640e3055b95e287ceb5931"
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
@@ -4679,10 +4667,6 @@ node-releases@^1.1.25:
   dependencies:
     semver "^5.3.0"
 
-nodemailer@^4.6.8:
-  version "4.7.0"
-  resolved "https://registry.npm.taobao.org/nodemailer/download/nodemailer-4.7.0.tgz#4420e06abfffd77d0618f184ea49047db84f4ad8"
-
 nopt@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npm.taobao.org/nopt/download/nopt-4.0.1.tgz#d0d4685afd5415193c8c7505602d0d17cd64474d"
@@ -5132,10 +5116,6 @@ pinkie@^2.0.0:
   version "2.0.4"
   resolved "https://registry.npm.taobao.org/pinkie/download/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
 
-pino-std-serializers@^2.3.0:
-  version "2.4.2"
-  resolved "https://registry.npm.taobao.org/pino-std-serializers/download/pino-std-serializers-2.4.2.tgz#cb5e3e58c358b26f88969d7e619ae54bdfcc1ae1"
-
 pirates@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npm.taobao.org/pirates/download/pirates-4.0.1.tgz#643a92caf894566f91b2b986d2c66950a8e2fb87"
@@ -5295,10 +5275,6 @@ querystring@0.2.0:
 querystringify@^2.1.1:
   version "2.1.1"
   resolved "https://registry.npm.taobao.org/querystringify/download/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
-
-quick-format-unescaped@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npm.taobao.org/quick-format-unescaped/download/quick-format-unescaped-3.0.2.tgz#0137e94d8fb37ffeb70040535111c378e75396fb"
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
@@ -5464,8 +5440,8 @@ regenerate@^1.4.0:
   resolved "https://registry.npm.taobao.org/regenerate/download/regenerate-1.4.0.tgz#4a856ec4b56e4077c557589cae85e7a4c8869a11"
 
 regenerator-transform@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.14.0.tgz#2ca9aaf7a2c239dd32e4761218425b8c7a86ecaf"
+  version "0.14.1"
+  resolved "https://registry.npm.taobao.org/regenerator-transform/download/regenerator-transform-0.14.1.tgz#3b2fce4e1ab7732c08f665dfdb314749c7ddd2fb"
   dependencies:
     private "^0.1.6"
 
@@ -5880,12 +5856,6 @@ sockjs@0.3.19:
   dependencies:
     faye-websocket "^0.10.0"
     uuid "^3.0.1"
-
-sonic-boom@^0.7.3:
-  version "0.7.4"
-  resolved "https://registry.npm.taobao.org/sonic-boom/download/sonic-boom-0.7.4.tgz#dc1740a900cf8646471f6ac1f4933a5c66c0ca60"
-  dependencies:
-    flatstr "^1.0.9"
 
 source-list-map@^2.0.0:
   version "2.0.1"
@@ -6781,12 +6751,6 @@ wonder-bs-mysql2@^0.1.0:
     "@glennsl/bs-json" "^2.0.0"
     mysql2 "^1.5.3"
 
-wonder-bs-nodemailer@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.npm.taobao.org/wonder-bs-nodemailer/download/wonder-bs-nodemailer-0.0.5.tgz#fc53f1949655c4680c05409d08a1a0eeca4241d8"
-  dependencies:
-    nodemailer "^4.6.8"
-
 wonder-bs-sinon@^0.1.7:
   version "0.1.9"
   resolved "https://registry.npm.taobao.org/wonder-bs-sinon/download/wonder-bs-sinon-0.1.9.tgz#d2e81bb5a8c3152ae750d744db34db6888bc672b"
@@ -6801,17 +6765,6 @@ wonder-commonlib@^0.2.23:
 wonder-log@^0.2.2:
   version "0.2.11"
   resolved "https://registry.npm.taobao.org/wonder-log/download/wonder-log-0.2.11.tgz#c22f2c644e455adc9cd293703793a501c7b0ba7e"
-
-wonder-pino@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.npm.taobao.org/wonder-pino/download/wonder-pino-0.1.0.tgz#d88424f9b58f9ab22932154e3a93c18042d1f576"
-  dependencies:
-    fast-redact "^1.4.4"
-    fast-safe-stringify "^2.0.6"
-    flatstr "^1.0.9"
-    pino-std-serializers "^2.3.0"
-    quick-format-unescaped "^3.0.2"
-    sonic-boom "^0.7.3"
 
 wonder-reroute@^0.0.2:
   version "0.0.2"

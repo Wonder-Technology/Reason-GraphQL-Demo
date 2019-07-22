@@ -3,14 +3,14 @@ let getServerConfig = () => {|
         "mysql_product_config": {
             "host": "127.0.0.1",
             "user": "root",
-            "password": "asd",
+            "password": "your pass",
             "database": "graphql",
             "port": 3306
         },
         "mysql_test_config": {
             "host": "127.0.0.1",
             "user": "root",
-            "password": "asd",
+            "password": "your pass",
             "database": "graphql_test",
             "port": 3306
         }
