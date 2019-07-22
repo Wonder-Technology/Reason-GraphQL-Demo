@@ -25,13 +25,13 @@ cyarn install
 # create database and table
 
 ```js
-change  ServerConfig.re -> database config(set user and password and database)
+change src/config/ServerConfig.re -> database config(set user and password and database)
 
 create database: your setted database
 
-create table userLogin: get sql from UserLoginTableTool.re
+create table userLogin: get sql from test/unit/model/userLogin/UserLoginTableTool.re
 
-create table userInfo: get sql from UserInfoTableTool.re
+create table userInfo: get sql from test/unit/model/userInfo/UserInfoTableTool.re
 ```
 
 # build project
